@@ -7,3 +7,6 @@ Respositorio dedicado a aprender typescript
 * Bootstrap: [Link](https://getbootstrap.com/)
 * API para probar [Req Res](https://reqres.in/)
 * Axios para peticiones [npm axios](https://www.npmjs.com/package/axios) _npm i axios_ ó _yarn add axios_
+* Creador de Interfaces de manera rápida 
+  * [quicktype](https://app.quicktype.io/)
+  * Extension VSCode "Paste JSON as Code"
