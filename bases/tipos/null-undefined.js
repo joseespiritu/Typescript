@@ -1,6 +1,6 @@
 "use strict";
 (function () {
     // strictNullChecks
-    var isActive = null;
+    // let isActive: boolean = null;
     // console.log(isActive);
 })();
