@@ -16,6 +16,6 @@
   "scripts": {
     "start": "webpack serve --mode development --open --port=8081"
   },
-  "author": "",
+  "author": "Jose",
   "license": "ISC"
 }
